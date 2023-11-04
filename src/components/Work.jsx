@@ -1,7 +1,11 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg'
-import realEstate from '../assets/realestate.jpg'
-import phpmotors from '../assets/phpmotors.png'
+import WorkImg from '../assets/workImg.jpeg';
+import realEstate from '../assets/realestate.jpg';
+import phpmotors from '../assets/phpmotors.png';
+import movie_search from '../assets/movie_search.png';
+import task_application from '../assets/task_application.png';
+import weather_app from '../assets/weather_app.jpg';
+
 
 const Work = () => {    
   return (
@@ -17,20 +21,20 @@ const Work = () => {
         className='grid sm:grid-cols-2  md:grid-cols-3 gap-4'>  
 
      {/*Grid Item */}   
-          <div style={{backgroundImage:`url(${WorkImg})`}}
+          <div style={{backgroundImage:`url(${phpmotors})`}}
           className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover  Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application  
+                PHP Motors  
 
               </span>
               <div className='pt-8 text-center'> 
-                <a href="/">
+                <a href="https://github.com/jlule/PHP-motors-website">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/jlule/PHP-motors-website">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
 
@@ -39,13 +43,13 @@ const Work = () => {
 
           </div>
           
-          <div style={{backgroundImage:`url(${phpmotors})`}}
+          <div style={{backgroundImage:`url(${movie_search})`}}
           className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover  Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                PHP Motors  
+                Movie_DB  
 
               </span>
               <div className='pt-8 text-center'> 
@@ -60,13 +64,58 @@ const Work = () => {
             </div>
 
           </div>
+          <div style={{backgroundImage:`url(${task_application})`}}
+          className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            
+            {/* Hover  Effects*/}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                Django Task Application   
+
+              </span>
+              <div className='pt-8 text-center'> 
+                <a href="https://youtu.be/o7RBnR9KAuo">
+                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                </a>
+                <a href="https://github.com/jlule/Task-Application">
+                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                </a>
+
+              </div>
+            </div>
+
+          </div>
+          
+          <div style={{backgroundImage:`url(${weather_app})`}}
+          className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            
+            {/* Hover  Effects*/}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                Weather App  
+
+              </span>
+              <div className='pt-8 text-center'> 
+                <a href="/">
+                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                </a>
+                <a href="https://github.com/jlule/Weather-App/tree/master">
+                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                </a>
+
+              </div>
+            </div>
+
+          </div>
+          
+
           <div style={{backgroundImage:`url(${WorkImg})`}}
           className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover  Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application  
+                  Machine Learning 
 
               </span>
               <div className='pt-8 text-center'> 
@@ -88,59 +137,14 @@ const Work = () => {
             {/* Hover  Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application  
+                Data Structures and Algorithms Lesson  
 
               </span>
               <div className='pt-8 text-center'> 
                 <a href="/">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-
-              </div>
-            </div>
-
-          </div>
-          
-
-          <div style={{backgroundImage:`url(${WorkImg})`}}
-          className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
-            
-            {/* Hover  Effects*/}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application  
-
-              </span>
-              <div className='pt-8 text-center'> 
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-
-              </div>
-            </div>
-
-          </div>
-          
-          <div style={{backgroundImage:`url(${realEstate})`}}
-          className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
-            
-            {/* Hover  Effects*/}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application  
-
-              </span>
-              <div className='pt-8 text-center'> 
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href="/">
+                <a href="https://github.com/jlule/Data_Structures_and_Algorithms_CSE-212">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
 
