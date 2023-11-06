@@ -31,7 +31,7 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'> 
-                <a href="https://github.com/jlule/PHP-motors-website">
+                <a href="https://github.com/jlule/PHP-motors-website/tree/main#readme">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 <a href="https://github.com/jlule/PHP-motors-website">
@@ -53,7 +53,7 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'> 
-                <a href="https://www.youtube.com/watch?v=YkHXamLNrlA&ab_channel=michaeljames">
+                <a href="https://youtu.be/B1ZPcgCrPH8">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 <a href="https://github.com/jlule/PHP-motors-website/tree/main/phpmotors">
@@ -96,7 +96,7 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'> 
-                <a href="/">
+                <a href="https://youtu.be/OmXQwNNHf-w">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 <a href="https://github.com/jlule/Weather-App/tree/master">
@@ -119,10 +119,10 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'> 
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                <a href="https://github.com/jlule/Machine_learning_module4/blob/main/ExecutiveSummary_Module4.1.docx">
+                  <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Exec Summary</button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/jlule/Machine_learning_module4/blob/main/Bike_rentals_Project_Module_4.ipynb">
                   <button className='text-center rounded-lg px-4 py-3 m-3 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
 
