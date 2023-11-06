@@ -1,10 +1,10 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg';
-import realEstate from '../assets/realestate.jpg';
 import phpmotors from '../assets/phpmotors.png';
 import movie_search from '../assets/movie_search.png';
 import task_application from '../assets/task_application.png';
 import weather_app from '../assets/weather_app.jpg';
+import dassa from '../assets/dassa.png';
+import ml from '../assets/ml.jpg';
 
 
 const Work = () => {    
@@ -109,7 +109,7 @@ const Work = () => {
           </div>
           
 
-          <div style={{backgroundImage:`url(${WorkImg})`}}
+          <div style={{backgroundImage:`url(${ml})`}}
           className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover  Effects*/}
@@ -131,7 +131,7 @@ const Work = () => {
 
           </div>
           
-          <div style={{backgroundImage:`url(${realEstate})`}}
+          <div style={{backgroundImage:`url(${dassa})`}}
           className='shadow-lg shadow-[#040c161] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover  Effects*/}
