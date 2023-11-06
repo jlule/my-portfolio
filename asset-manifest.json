@@ -1,12 +1,17 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.437801dd.css",
-    "main.js": "/my-portfolio/static/js/main.b30c0473.js",
+    "main.js": "/my-portfolio/static/js/main.dd5cde4e.js",
+    "static/media/movie_search.png": "/my-portfolio/static/media/movie_search.e5450f68e5f1b01d5a03.png",
     "static/media/realestate.jpg": "/my-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/phpmotors.png": "/my-portfolio/static/media/phpmotors.6a58218b193b801e1872.png",
     "static/media/angular.png": "/my-portfolio/static/media/angular.b6d2a9dec3e43e0ffb95.png",
+    "static/media/weather_app.jpg": "/my-portfolio/static/media/weather_app.a81d9ff1beb38fd818bf.jpg",
     "static/media/workImg.jpeg": "/my-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/task_application.png": "/my-portfolio/static/media/task_application.f8ec8173be76d5e483b0.png",
     "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/my-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/my-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/java.png": "/my-portfolio/static/media/java.d3a955bf4803b1a6bbb7.png",
     "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -16,10 +21,10 @@
     "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio/index.html",
     "main.437801dd.css.map": "/my-portfolio/static/css/main.437801dd.css.map",
-    "main.b30c0473.js.map": "/my-portfolio/static/js/main.b30c0473.js.map"
+    "main.dd5cde4e.js.map": "/my-portfolio/static/js/main.dd5cde4e.js.map"
   },
   "entrypoints": [
     "static/css/main.437801dd.css",
-    "static/js/main.b30c0473.js"
+    "static/js/main.dd5cde4e.js"
   ]
 }
